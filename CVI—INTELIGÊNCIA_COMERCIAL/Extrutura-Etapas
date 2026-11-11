@@ -1,0 +1,153 @@
+
+# A ESTRUTURA
+
+ETAPAS 1 A 7 = A MENTE
+Identidade · Conhecimento · Inteligência comercial · Comunicação · Regras
+
+ETAPA 8 = A VALIDAÇÃO
+Simulações · Testes · Identificação de falhas · Ajustes
+
+AGENTE V1
+Pronto para ser integrado à landing page da CVI e testado com visitantes reais.
+
+---
+
+# ETAPA:
+
+1. Constituição da Inteligência -	[Identidade, missão e princípios do agente.]
+2. Conhecimento Institucional - [O que é a CVI, o que faz, serviços, posicionamento e portfólio.]
+3. Inteligência Comercial - [Como diagnosticar necessidades e identificar oportunidades.]
+4. Comunicação e Linguagem - [Como conversar, adaptar o discurso e conduzir o visitante.]
+5. Soluções e Portfólio - [Como apresentar serviços e recomendar soluções adequadas.]
+6. Qualificação e Encaminhamento - [Como identificar oportunidades, coletar dados e encaminhar contatos.]
+7. Regras Operacionais - [Limites, autonomia, segurança e situações que exigem intervenção humana.]
+8. Simulações, testes e validação
+
+## BREVE EXPLICAÇÃO DE CADA ETAPA:
+
+
+### ETAPA 1. CONSTITUIÇÃO DA INTELIGÊNCIA
+
+
+A primeira etapa será a constituição da inteligência. 
+Este é o documento inicial que deverá ser incorporado às instruções da IA que já está sendo integrada à sua landing page.
+
+Este documento estabelece a identidade, a missão e os limites de comportamento. 
+Ainda não é a inteligência completa: ela não recebeu todo o conhecimento sobre os serviços, preços, metodologia e portfólio da CVI.
+
+---
+
+### ETAPA 2. CONHECIMENTO INSTITUCIONAL
+
+Nesta etapa, a IA deixará de conhecer apenas sua missão e sua conduta e passará a compreender a empresa que representa: 
+a CVI, seu posicionamento, seus serviços, sua metodologia e suas possibilidades de atuação.
+
+Uma decisão importante: vou separar o que já está estabelecido sobre a CVI daquilo que ainda pode evoluir. 
+A IA não deve transformar ideias em desenvolvimento em serviços oficialmente disponíveis.
+
+O QUE ESTA ETAPA JÁ PERMITE FAZER
+Com a Etapa 1 e a Etapa 2 integradas, a inteligência passa a ter:
+- Uma identidade e uma missão.
+- Regras de comportamento.
+- Conhecimento sobre a empresa.
+- Compreensão dos serviços e suas aplicações.
+- Conhecimento da metodologia.
+- Noção dos diferenciais.
+- Limites para não inventar informações.
+
+
+### ETAPA 3. INTELIGÊNCIA COMERCIAL
+Nela vamos estabelecer como a IA identifica o que o visitante realmente precisa, quais perguntas deve fazer, como diferencia uma necessidade de outra e como recomenda uma solução da CVI.
+
+O ponto central desta etapa é: não transformar o agente em um questionário automático nem em um vendedor que tenta oferecer tudo. 
+Ele precisa diagnosticar antes de recomendar.
+
+O QUE ESTA ETAPA ESTABELECE
+Com a Etapa 3, o agente passa a ter uma lógica comercial definida:
+1. Identifica quem está conversando e o contexto.
+2. Investiga a necessidade sem aplicar um questionário rígido.
+3. Diagnostica o problema e a possível aplicação.
+4. Qualifica a oportunidade.
+5. Recomenda uma solução coerente.
+6. Encaminha quando existe motivo para atendimento humano.
+
+---
+
+### ETAPA 4. COMUNICAÇÃO E LINGUAGEM
+Nela vamos definir como o agente fala, como adapta o vocabulário ao visitante, como mantém naturalidade e como utiliza o DNA Comunicativo da CVI sem parecer um robô ou um vendedor insistente.
+
+A Etapa 4 vai definir a personalidade comunicativa do agente da CVI: não apenas quais palavras utilizar, mas como conversar, interpretar o visitante, adaptar o nível de linguagem e conduzir a interação sem parecer um chatbot convencional.
+
+Ela também precisa preservar uma distinção importante: o agente representa a CVI, mas não deve falar como se fosse o próprio Elton nem simular uma experiência humana que não possui.
+
+---
+### ETAPA 5. SOLUÇÕES E PORTFÓLIO
+Nela vamos definir como o agente apresenta os serviços da CVI, escolhe exemplos e demonstrações relevantes, explica possibilidades e conduz o visitante da necessidade identificada para uma solução concreta, sem despejar um catálogo de serviços.
+
+A Etapa 5 conecta o diagnóstico comercial com aquilo que a CVI efetivamente oferece.
+
+O agente já sabe identificar a necessidade, conduzir a conversa e recomendar um caminho. 
+Agora precisa saber qual serviço apresentar, como explicar sua aplicação e quando utilizar um projeto do portfólio para demonstrar o que a CVI consegue produzir.
+
+Um cuidado importante: o agente não deve apresentar todos os serviços para todos os visitantes. 
+Deve selecionar apenas o que tem relação com a necessidade identificada e nunca transformar uma demonstração em um case comercial ou resultado comprovado.
+
+---
+### ETAPA 6. QUALIFICAÇÃO E ENCAMINHAMENTO
+Nela vamos definir como o agente transforma uma conversa em uma oportunidade organizada para a CVI, quais dados deve coletar, como confirma as informações e como prepara a passagem para o atendimento humano.
+
+A Etapa 6 é a transição entre a conversa comercial e o atendimento humano.
+
+Até aqui, o agente já consegue entender necessidades, diagnosticar problemas, apresentar soluções e demonstrar o portfólio. 
+Agora precisa saber quando uma oportunidade está pronta para avançar, quais informações precisa coletar e como entregar esse contato ao responsável pela CVI sem perder o contexto da conversa.
+
+Um cuidado importante nesta etapa: coletar dados não significa preencher um formulário completo de qualquer visitante. 
+O agente deve respeitar o momento comercial e solicitar somente informações necessárias para o próximo passo.
+
+
+---
+### ETAPA 7. REGRAS OPERACIONAIS
+Essa será uma etapa importante para evitar que o agente invente informações, interprete incorretamente solicitações ou execute ações sem autorização.
+
+
+----
+### ETAPA 8. SIMULAÇÕES, TESTES E VALIDAÇÃO
+
+Aqui começa uma mudança importante: saímos da construção das instruções e começamos a testar o comportamento do agente.
+
+Vamos criar situações reais e difíceis para verificar se ele:
+- Entende corretamente o que o visitante precisa.
+- Não oferece serviços sem contexto.
+- Sabe responder sobre preços sem inventar valores.
+- Consegue identificar oportunidades comerciais.
+- Sabe lidar com visitantes objetivos e detalhistas.
+- Reconhece quando precisa de atendimento humano.
+- Mantém coerência com todas as sete etapas.
+
+A oitava etapa tem outra finalidade.
+
+Ela não é mais uma camada de conhecimento para ensinar a CVI ao agente. É um conjunto de testes para verificar se ele consegue aplicar corretamente tudo o que recebeu nas sete etapas anteriores.
+
+Vamos simular situações como:
+- Um visitante que não sabe exatamente o que precisa.
+- Um empresário que pergunta diretamente quanto custa um vídeo.
+- Um cliente que precisa de treinamento corporativo.
+- Uma pessoa que quer apenas conhecer a CVI.
+- Um visitante que pede algo que a CVI não oferece.
+- Um potencial cliente que demonstra interesse, mas não fornece informações.
+- Um visitante que tenta induzir o agente a inventar preços ou prometer resultados.
+
+
+
+----
+
+## COMO UTILIZAR ESTA ETAPA
+A sequência de execução será:
+1. Manter as Etapas 1 a 7 como base de instruções do Consultor Virtual.
+2. Utilizar a Etapa 8 em um ambiente separado, como protocolo de avaliação.
+3. Executar os testes individualmente, observando as respostas reais do agente.
+4. Registrar falhas e corrigir somente as instruções necessárias.
+5. Repetir os testes afetados antes de considerar a V1 validada.
+Um ponto importante: precisamos testar o agente que realmente será utilizado na landing page, não apenas simular como ele deveria responder. Se ele funcionar bem em uma conversa de teste, mas falhar na integração, na continuidade ou no encaminhamento, ainda não estará pronto para uso comercial.
+
+A Etapa 8 está estruturada. O próximo passo do projeto será executar a bateria de testes e consolidar a primeira versão funcional do Consultor Virtual da CVI.
