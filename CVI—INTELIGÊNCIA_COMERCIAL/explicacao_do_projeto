@@ -1,0 +1,272 @@
+# CVI — INTELIGÊNCIA COMERCIAL
+## Contextualização, conceito, finalidade e objetivos do projeto
+
+### 1. O que é o CVI — Inteligência Comercial
+
+O **CVI — Inteligência Comercial** é um projeto de desenvolvimento de um agente de inteligência artificial conversacional, concebido para atuar como representante digital de uma empresa em seus primeiros contatos comerciais com potenciais clientes.
+
+Sua função é estabelecer conversas naturais, compreender as necessidades dos visitantes, identificar oportunidades comerciais, apresentar soluções compatíveis com cada contexto e realizar a qualificação de potenciais clientes antes de encaminhá-los para o atendimento humano.
+
+Não se trata simplesmente de um chatbot convencional, com respostas predefinidas, menus ou opções como "pressione 1 para vendas" e "pressione 2 para suporte".
+
+A proposta é desenvolver uma inteligência capaz de conduzir conversas contextualizadas, interpretar as informações fornecidas pelo interlocutor, considerar o histórico da interação e adaptar suas perguntas e respostas de acordo com cada situação.
+
+O agente deve funcionar como uma primeira camada de inteligência no processo comercial da empresa.
+
+### 2. Para que serve
+
+O projeto busca resolver um problema recorrente em empresas que recebem contatos de potenciais clientes por canais digitais: o tempo e os recursos necessários para realizar o primeiro atendimento, compreender o interesse do visitante e identificar se existe uma oportunidade comercial.
+
+Em muitas operações, profissionais de vendas precisam dedicar uma parte significativa do seu tempo a atividades iniciais, como:
+
+- Responder perguntas recorrentes sobre produtos e serviços.
+- Explicar o funcionamento da empresa e suas soluções.
+- Entender o que o potencial cliente está procurando.
+- Identificar necessidades, problemas e objetivos.
+- Solicitar informações para compreender o perfil do interessado.
+- Separar contatos com potencial comercial daqueles sem aderência à oferta.
+- Organizar informações antes de encaminhar uma oportunidade para o vendedor.
+
+O CVI — Inteligência Comercial pretende assumir parte dessas atividades, utilizando inteligência artificial para realizar o primeiro atendimento e preparar informações relevantes para a continuidade da negociação.
+
+O objetivo não é simplesmente responder mais rápido, mas tornar o primeiro contato mais organizado, contextualizado e comercialmente inteligente.
+
+### 3. Objetivo principal
+
+O objetivo central é desenvolver um agente capaz de transformar contatos iniciais em oportunidades comerciais melhor compreendidas e qualificadas.
+
+Para isso, ele deve:
+
+1. Receber e compreender a solicitação do visitante.
+2. Identificar o contexto e a intenção do contato.
+3. Investigar necessidades, dificuldades e objetivos por meio de perguntas pertinentes.
+4. Apresentar informações e soluções relacionadas à necessidade identificada.
+5. Avaliar a compatibilidade entre o perfil do potencial cliente e as soluções oferecidas pela empresa.
+6. Identificar o nível de interesse e maturidade da oportunidade.
+7. Coletar os dados necessários para a continuidade do atendimento.
+8. Organizar as informações em um resumo comercial estruturado.
+9. Encaminhar a oportunidade para um profissional responsável, preservando o contexto da conversa.
+
+O resultado esperado é que o profissional comercial não precise começar o atendimento do zero. Ele deverá receber um contato acompanhado de informações que facilitem a compreensão da necessidade e a continuidade da negociação.
+
+### 4. Como a inteligência deve funcionar
+
+A arquitetura conceitual do projeto combina duas dimensões principais:
+
+**A. Inteligência conversacional**
+
+É responsável pela maneira como o agente se comunica e conduz a interação.
+
+Envolve:
+- Linguagem natural e humanizada.
+- Interpretação de contexto e intenção.
+- Memória contextual dentro da conversa.
+- Adaptação das perguntas conforme as respostas.
+- Continuidade lógica do diálogo.
+- Capacidade de explicar conceitos e soluções.
+- Comunicação adequada ao perfil do interlocutor.
+
+**B. Inteligência comercial (SDR)**
+
+É responsável pela lógica de diagnóstico e qualificação da oportunidade.
+
+Envolve:
+- Identificação do perfil do potencial cliente.
+- Compreensão da necessidade comercial.
+- Investigação de problemas e objetivos.
+- Avaliação de aderência às soluções da empresa.
+- Identificação de interesse e prioridade.
+- Qualificação da oportunidade.
+- Coleta de informações comerciais.
+- Preparação do encaminhamento para o atendimento humano.
+
+As duas dimensões precisam trabalhar de maneira integrada.
+
+O agente não deve parecer um formulário disfarçado de conversa. A qualificação deve acontecer naturalmente, respeitando o contexto e aproveitando as informações que o visitante já forneceu.
+
+### 5. O que diferencia o projeto de um chatbot convencional
+
+A principal diferença está na forma de interação e na finalidade comercial.
+
+Um chatbot tradicional geralmente trabalha com fluxos rígidos, menus, palavras-chave e respostas previamente programadas.
+
+O CVI — Inteligência Comercial propõe uma abordagem diferente:
+
+- Não depende de menus fixos para conduzir a conversa.
+- Não deve fazer perguntas desnecessárias ou repetidas.
+- Não deve obrigar o visitante a seguir uma sequência rígida de opções.
+- Deve considerar o que já foi informado antes de formular uma nova pergunta.
+- Deve compreender a necessidade antes de apresentar uma solução.
+- Deve adaptar sua condução ao contexto de cada interação.
+- Deve ter um objetivo comercial claro, e não apenas manter uma conversa.
+
+A intenção é proporcionar uma experiência próxima de uma conversa consultiva inicial com um profissional comercial preparado.
+
+Isso não significa que o agente tenha autonomia ilimitada ou que consiga substituir integralmente a capacidade de julgamento de um vendedor experiente.
+
+### 6. O papel do agente na operação comercial
+
+O CVI — Inteligência Comercial deve atuar como uma extensão da estrutura comercial da empresa, assumindo parte das atividades de primeiro contato e qualificação.
+
+Seu papel está concentrado principalmente nas etapas anteriores à negociação humana.
+
+**Fluxo conceitual:**
+
+CONTATO INICIAL  
+↓  
+COMPREENSÃO DA NECESSIDADE  
+↓  
+DIAGNÓSTICO COMERCIAL  
+↓  
+APRESENTAÇÃO DE SOLUÇÕES  
+↓  
+QUALIFICAÇÃO DA OPORTUNIDADE  
+↓  
+COLETA E ORGANIZAÇÃO DOS DADOS  
+↓  
+ENCAMINHAMENTO AO RESPONSÁVEL COMERCIAL  
+↓  
+NEGOCIAÇÃO E FECHAMENTO HUMANO
+
+O profissional humano continua sendo fundamental para situações que exigem negociação, análise particularizada, relacionamento, tomada de decisão e fechamento comercial.
+
+O agente prepara o caminho para esse atendimento.
+
+### 7. Classificação e qualificação das oportunidades
+
+Uma parte importante do projeto é permitir que o agente identifique diferentes situações comerciais.
+
+A classificação não deve considerar apenas se o visitante demonstrou interesse, mas também a compatibilidade entre sua necessidade e aquilo que a empresa oferece.
+
+Entre as classificações que podem ser desenvolvidas estão:
+
+- **Oportunidade qualificada:** existe aderência entre a necessidade identificada e a solução oferecida, com informações suficientes para avançar no atendimento.
+- **Oportunidade em avaliação:** existe interesse, mas ainda faltam informações ou maturidade para uma classificação mais conclusiva.
+- **Sem aderência comercial:** a necessidade identificada não corresponde às soluções ou ao perfil de atendimento da empresa.
+- **Intervenção humana necessária:** a situação exige análise, decisão ou atendimento direto de um profissional.
+
+Os critérios definitivos de classificação devem ser configuráveis de acordo com o segmento, o modelo de negócio, os produtos e os processos comerciais de cada empresa.
+
+### 8. Aplicações empresariais
+
+O conceito pode ser aplicado em empresas que recebem contatos comerciais recorrentes e precisam compreender, organizar e qualificar essas oportunidades.
+
+Alguns segmentos potencialmente compatíveis:
+
+- Distribuidores de equipamentos e materiais técnicos.
+- Empresas de energia solar.
+- Empresas de climatização e equipamentos industriais.
+- Imobiliárias e incorporadoras.
+- Clínicas e redes de serviços especializados.
+- Concessionárias e grupos automotivos.
+- Instituições de ensino.
+- Consultorias e empresas de serviços B2B.
+
+Esses segmentos são possibilidades de aplicação, não mercados já validados pelo projeto.
+
+A adequação depende da existência de demanda por atendimento inicial, volume de contatos, repetição de dúvidas e necessidade de qualificação antes da intervenção comercial humana.
+
+### 9. Benefícios empresariais pretendidos
+
+O projeto busca produzir benefícios mensuráveis para a operação comercial:
+
+- Redução do esforço humano dedicado ao primeiro atendimento.
+- Maior organização das informações dos potenciais clientes.
+- Padronização de etapas iniciais do processo comercial.
+- Melhor compreensão das necessidades antes do contato com o vendedor.
+- Identificação mais consistente de oportunidades com aderência.
+- Possibilidade de atendimento inicial fora do horário comercial, conforme a infraestrutura e os canais implementados.
+- Melhor aproveitamento do tempo da equipe de vendas.
+- Maior capacidade de absorver contatos sem ampliar proporcionalmente a estrutura de atendimento.
+
+Esses são objetivos e benefícios esperados. Não devem ser tratados como resultados comprovados antes da realização de pilotos e da análise de indicadores reais.
+
+### 10. Estrutura já desenvolvida
+
+O projeto já possui uma estrutura inicial de inteligência organizada em oito etapas documentais:
+
+1. Constituição da Inteligência — identidade, papel e princípios fundamentais do agente.
+2. Conhecimento Institucional da CVI — informações sobre a empresa, posicionamento e atuação.
+3. Inteligência Comercial e Diagnóstico — raciocínio comercial e identificação das necessidades.
+4. Comunicação, Linguagem e Condução da Conversa — comportamento comunicacional e dinâmica do diálogo.
+5. Apresentação de Soluções, Serviços e Portfólio — critérios para apresentar soluções adequadas.
+6. Qualificação Final, Coleta de Dados e Encaminhamento Comercial — conclusão do diagnóstico e preparação da oportunidade.
+7. Regras Operacionais, Limites e Tomada de Decisão — limites de atuação, regras e tratamento de situações específicas.
+8. Simulações, Testes e Validação da Inteligência — protocolo de testes para avaliar o comportamento e a qualidade das respostas.
+
+Essas etapas representam a organização conceitual e instrucional já construída. A existência dessa documentação não significa, por si só, que todas as funcionalidades comerciais estejam integradas ou validadas em uma operação real.
+
+### 11. Estratégia de validação
+
+O projeto precisa avançar da construção da inteligência para a validação em empresas reais.
+
+A proposta inicial é selecionar uma empresa com perfil comercial compatível e realizar um piloto controlado.
+
+Durante esse período, devem ser observados indicadores como:
+
+- Quantidade de conversas iniciadas.
+- Percentual de conversas concluídas.
+- Quantidade de oportunidades qualificadas.
+- Quantidade de oportunidades encaminhadas para atendimento humano.
+- Qualidade das informações coletadas.
+- Necessidade de intervenção humana.
+- Tempo dedicado pela equipe ao primeiro atendimento.
+- Evolução das oportunidades encaminhadas.
+- Conversão comercial, quando for possível acompanhar o resultado até o fechamento.
+
+O piloto deverá permitir identificar falhas, ajustar critérios de qualificação, aperfeiçoar a comunicação e avaliar se existe valor operacional e comercial suficiente para justificar a contratação da solução.
+
+A validação precisa ocorrer com dados reais. Opiniões positivas sobre a demonstração ou o funcionamento do agente não substituem evidências de utilização e resultado.
+
+### 12. Possibilidades de evolução
+
+O projeto pode evoluir para uma solução comercial adaptável a diferentes empresas e segmentos.
+
+Entre as possibilidades futuras estão:
+
+- Personalização do conhecimento institucional de cada empresa.
+- Configuração de critérios comerciais específicos.
+- Integração com WhatsApp e outros canais digitais.
+- Integração com CRM e sistemas de gestão comercial.
+- Encaminhamento estruturado de oportunidades para vendedores.
+- Painéis de acompanhamento e indicadores.
+- Histórico e análise de interações.
+- Monitoramento de desempenho e aperfeiçoamento contínuo.
+- Diferentes configurações de inteligência conforme o segmento e a complexidade comercial.
+
+Essas possibilidades dependem de arquitetura técnica, ferramentas, integrações, custos operacionais e validação de viabilidade. Não devem ser consideradas funcionalidades já disponíveis sem confirmação da implementação.
+
+### 13. Visão estratégica do projeto
+
+O CVI — Inteligência Comercial não deve ser posicionado simplesmente como mais um chatbot de inteligência artificial.
+
+Sua proposta é desenvolver uma camada de inteligência entre o potencial cliente e a estrutura comercial da empresa.
+
+Uma camada capaz de compreender, diagnosticar, qualificar e organizar oportunidades antes que elas cheguem ao profissional responsável pela negociação.
+
+O valor da solução não está apenas em automatizar respostas, mas em melhorar a qualidade do processo comercial desde o primeiro contato.
+
+**A inteligência artificial é a tecnologia utilizada. A inteligência comercial é a finalidade. O resultado esperado é uma operação de vendas mais organizada, eficiente e preparada para aproveitar oportunidades.**
+
+---
+
+## ORIENTAÇÃO PARA A ANÁLISE E EVOLUÇÃO DO PROJETO
+
+Este documento deve ser utilizado como contexto conceitual e estratégico para analisar o prompt e a estrutura de instruções já desenvolvidos para o CVI — Inteligência Comercial.
+
+A análise deverá considerar:
+
+1. A coerência entre a proposta comercial e a arquitetura atual do agente.
+2. A qualidade da inteligência conversacional e do diagnóstico comercial.
+3. A capacidade real de qualificar oportunidades sem transformar a conversa em um questionário rígido.
+4. A identificação de lacunas na lógica de SDR.
+5. A capacidade de lidar com diferentes perfis, necessidades e níveis de interesse.
+6. A confiabilidade das informações e os limites de autonomia.
+7. A viabilidade de aplicação em empresas reais.
+8. As necessidades técnicas para integração com canais e sistemas comerciais.
+9. Os indicadores necessários para validar o valor da solução.
+10. O potencial de transformar o projeto em uma oferta comercial replicável e sustentável para a CVI.
+
+**Importante:** não partir da premissa de que o projeto está pronto, que o mercado já foi validado ou que todas as integrações são tecnicamente possíveis na configuração atual.
+
+O objetivo da análise é identificar o que já está bem construído, o que precisa ser corrigido, o que ainda falta desenvolver e qual deve ser a sequência de evolução para transformar o CVI — Inteligência Comercial em uma solução empresarial comercialmente viável.
