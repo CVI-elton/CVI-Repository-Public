@@ -1,0 +1,148 @@
+# PROMPT 02 — EXPERIÊNCIA DE NAVEGAÇÃO E USABILIDADE DA LANDING PAGE
+
+## 1. CONCEITO DE NAVEGAÇÃO
+
+A landing page ÉLORA deverá funcionar como uma experiência digital interativa e dinâmica.
+
+A navegação não deverá seguir exclusivamente o modelo tradicional de rolagem vertical.
+
+O visitante poderá explorar a página por meio dos menus ou conversar com a assistente virtual Clara.
+
+A experiência deverá ser integrada: a escolha feita pelo visitante deverá refletir diretamente no conteúdo visual apresentado.
+
+## 2. PRIMEIRO ACESSO
+
+Quando o visitante acessar a página:
+
+1. Apresentar a identidade visual da ÉLORA.
+2. Exibir a imagem principal e a mensagem de boas-vindas.
+3. Apresentar as principais categorias de serviços de maneira resumida.
+4. Abrir ou disponibilizar a interface de recepção da Clara.
+5. Clara deverá recepcionar o visitante e apresentar as possibilidades de navegação.
+
+Exemplo de mensagem:
+
+"Olá! Seja bem-vinda à ÉLORA. Eu sou a Clara e vou ajudar você a conhecer nossa clínica e nossos tratamentos. Você gostaria de conhecer nossos serviços ou está procurando alguma informação específica?"
+
+A interface deverá apresentar opções de navegação.
+
+## 3. NAVEGAÇÃO POR CATEGORIAS
+
+O visitante poderá escolher:
+
+- Tratamentos faciais.
+- Tratamentos corporais.
+- Tecnologias estéticas.
+- Conhecer a clínica.
+
+As opções poderão ser apresentadas como botões, cards ou menu lateral dentro da interface da Clara.
+
+Quando o visitante selecionar uma categoria:
+
+1. Atualizar o conteúdo principal da página.
+2. Alterar a imagem de destaque.
+3. Apresentar os textos e informações correspondentes.
+4. Utilizar uma transição visual suave.
+5. Manter Clara disponível para continuar a conversa.
+
+Não recarregar a página inteira.
+
+A experiência deverá ocorrer dinamicamente.
+
+## 4. CONVERSA E NAVEGAÇÃO INTEGRADAS
+
+A interação entre Clara e a página é um requisito central.
+
+Exemplo:
+
+O visitante pergunta:
+
+"Quero conhecer os tratamentos faciais."
+
+Clara responde e a página apresenta visualmente a categoria de tratamentos faciais.
+
+O visitante pergunta:
+
+"Quais são as opções disponíveis?"
+
+Clara apresenta as opções e a página atualiza o conteúdo para mostrar os procedimentos correspondentes.
+
+O visitante pergunta:
+
+"Quero conhecer melhor esse tratamento."
+
+A página apresenta a área específica daquele procedimento, com imagens, descrição e informações.
+
+A conversa não deve ficar desconectada do conteúdo visual.
+
+## 5. MUDANÇA ENTRE CATEGORIAS
+
+O visitante poderá mudar de assunto a qualquer momento.
+
+Exemplo:
+
+"Agora quero conhecer os tratamentos corporais."
+
+A página deverá abandonar a apresentação visual anterior e exibir a nova categoria.
+
+Clara deverá acompanhar a mudança de contexto.
+
+Não exigir que o visitante volte ao início.
+
+Não obrigar a encerrar a conversa para mudar de seção.
+
+## 6. CONTROLE DA EXPERIÊNCIA
+
+O visitante deverá poder:
+
+- Navegar pelo menu tradicional.
+- Escolher categorias visualmente.
+- Conversar com Clara.
+- Minimizar e reabrir Clara.
+- Encerrar a conversa.
+- Voltar à apresentação inicial.
+- Alternar entre categorias sem recarregar a página.
+
+A navegação manual e a navegação conduzida por Clara deverão funcionar simultaneamente.
+
+## 7. BOTÃO FLUTUANTE
+
+A esfera de Clara deverá permanecer fixa no canto inferior direito.
+
+Quando minimizada, deverá continuar visível.
+
+Quando acionada, abrirá a interface de conversa.
+
+A interface não deverá bloquear os conteúdos principais da página.
+
+No smartphone, adaptar a posição e as dimensões para evitar sobreposição excessiva.
+
+## 8. CONVERSÃO COMERCIAL
+
+Não implementar formulários de contato.
+
+Quando o visitante demonstrar interesse em agendar uma avaliação ou falar com a clínica:
+
+1. Clara deverá entender a solicitação.
+2. Fazer as perguntas necessárias, uma por vez.
+3. Coletar nome e informações relevantes para o atendimento.
+4. Identificar o procedimento de interesse.
+5. Solicitar autorização para compartilhar os dados.
+6. Confirmar as informações com o visitante.
+7. Encaminhar a solicitação para o WhatsApp configurado.
+
+O número de WhatsApp será configurado posteriormente.
+
+A experiência deverá permitir que a conversa seja encerrada naturalmente após o encaminhamento.
+
+## 9. PRINCÍPIO DE EXPERIÊNCIA
+
+A página não deve mostrar tudo de uma vez.
+
+O conteúdo deve ser apresentado progressivamente, conforme o interesse do visitante.
+
+O visitante precisa sentir que está explorando uma clínica de verdade, com uma apresentação visual personalizada para aquilo que deseja conhecer.
+
+A Clara é responsável por orientar a experiência, enquanto a página apresenta visualmente as informações.
+
+O objetivo é transformar a navegação em uma experiência de descoberta, atendimento e relacionamento comercial.
