@@ -1,0 +1,197 @@
+# PROMPT 01 — DESENVOLVIMENTO DO CORPO VISUAL DA LANDING PAGE ÉLORA
+
+## 1. OBJETIVO DO PROJETO
+
+Desenvolver uma landing page interativa para uma clínica fictícia de estética avançada chamada ÉLORA — Clínica de Estética.
+
+Esta página será uma demonstração comercial desenvolvida pela CVI (Conteúdo Visual Inteligente), com o objetivo de apresentar uma nova experiência digital que combina:
+
+- Identidade visual.
+- Apresentação audiovisual.
+- Conteúdo organizado.
+- Navegação dinâmica.
+- Assistente virtual com inteligência artificial.
+- Atendimento e encaminhamento comercial pelo WhatsApp.
+
+Não desenvolver um site institucional tradicional nem um catálogo convencional.
+
+A proposta é criar um ambiente digital sofisticado, visualmente envolvente e interativo.
+
+## 2. IDENTIDADE VISUAL
+
+Nome: ÉLORA  
+Segmento: Clínica de Estética Avançada.
+
+Direção visual:
+- Sofisticada, elegante e contemporânea.
+- Paleta de cores baseada em verde profundo, verde sálvia, bege e off-white.
+- Tipografia elegante, combinando títulos serifados com textos modernos.
+- Imagens de alta qualidade, com estética editorial e cinematográfica.
+- Animações discretas e transições suaves.
+- Layout limpo, sem excesso de informações.
+
+As imagens deverão ser produzidas separadamente por IA, utilizando DALL-E ou ferramenta equivalente, mantendo consistência estética e identidade visual.
+
+Não utilizar imagens genéricas de baixa qualidade.
+
+## 3. ESTRUTURA DA PÁGINA
+
+### ÁREA 01 — APRESENTAÇÃO / HOME
+
+A primeira tela precisa causar impacto visual.
+
+Elementos:
+- Logotipo ÉLORA.
+- Menu superior.
+- Imagem principal de uma mulher com estética editorial de beleza.
+- Título: "Seu cuidado merece uma experiência especial."
+- Subtítulo: "Beleza, tecnologia e bem-estar em um só lugar."
+- Botão: "Conheça a ÉLORA".
+
+A apresentação deve permitir que o visitante entenda rapidamente o segmento da empresa.
+
+Não apresentar todos os tratamentos nesta primeira tela.
+
+### ÁREA 02 — MENU DE EXPERIÊNCIAS
+
+Apresentar visualmente quatro categorias:
+
+1. Tratamentos faciais.
+2. Tratamentos corporais.
+3. Tecnologias estéticas.
+4. Conheça a clínica.
+
+Cada categoria deverá possuir imagem própria, título e descrição curta.
+
+Essas categorias também deverão estar disponíveis para seleção dentro da interface da assistente Clara.
+
+### ÁREA 03 — CONTEÚDO DINÂMICO DOS TRATAMENTOS
+
+Criar estruturas visuais independentes para cada categoria.
+
+Quando uma categoria for selecionada, a área principal deverá apresentar uma composição visual correspondente.
+
+Exemplo:
+
+Tratamentos faciais:
+- Imagem principal.
+- Apresentação da categoria.
+- Procedimentos disponíveis.
+- Descrições objetivas.
+- Imagens complementares.
+- Informações sobre os tratamentos.
+
+Tratamentos corporais:
+- Imagem principal.
+- Apresentação da categoria.
+- Procedimentos disponíveis.
+- Descrições objetivas.
+- Imagens complementares.
+- Informações sobre os tratamentos.
+
+Tecnologias estéticas:
+- Apresentação dos equipamentos.
+- Imagens ilustrativas.
+- Explicação de suas aplicações.
+- Informações sobre os procedimentos relacionados.
+
+Não mostrar todas as categorias simultaneamente em formato de catálogo extenso.
+
+### ÁREA 04 — CONHEÇA A CLÍNICA
+
+Criar uma apresentação visual com:
+- Recepção.
+- Salas de atendimento.
+- Ambientes.
+- Estrutura.
+- Equipe profissional.
+
+Utilizar imagens de aparência realista e sofisticada.
+
+### ÁREA 05 — DIFERENCIAIS
+
+Apresentar quatro elementos:
+
+- Atendimento personalizado.
+- Profissionais especializados.
+- Tecnologia estética.
+- Ambiente acolhedor.
+
+Não criar promessas de resultados ou certificações inexistentes.
+
+### ÁREA 06 — CONTATO
+
+Criar uma área final convidando o visitante a conhecer a clínica e solicitar uma avaliação.
+
+Texto sugerido:
+
+"Vamos encontrar o cuidado ideal para você?"
+
+Botão: "Fale com a ÉLORA".
+
+IMPORTANTE: não criar formulário de contato.
+
+O atendimento e a coleta das informações serão realizados pela assistente virtual Clara.
+
+## 4. ASSISTENTE VIRTUAL CLARA
+
+A página deverá integrar um botão flutuante de assistente virtual.
+
+A referência visual é a esfera verde apresentada pelo usuário.
+
+Características:
+- Posicionamento fixo no canto inferior direito.
+- Visível durante toda a navegação.
+- Esfera verde com aparência tridimensional.
+- Anéis luminosos discretos.
+- Animação suave.
+- Identidade visual coerente com a clínica.
+
+Quando acionado, deverá abrir a interface de atendimento por voz.
+
+A interface deverá permitir:
+- Iniciar conversa.
+- Encerrar conversa.
+- Minimizar a interface.
+- Visualizar o estado de atendimento.
+- Manter a navegação da página acessível.
+
+Na primeira entrada do visitante, considerar a abertura automática do painel de recepção da Clara, com possibilidade de minimização.
+
+## 5. RESPONSIVIDADE
+
+Desenvolver para:
+- Desktop.
+- Tablet.
+- Smartphone.
+
+No desktop, preservar a apresentação visual ampla e o painel da Clara no lado direito.
+
+No smartphone, reorganizar os elementos para que a experiência continue confortável, mantendo o botão flutuante acessível sem encobrir informações ou controles importantes.
+
+## 6. REQUISITOS TÉCNICOS
+
+Escolher a tecnologia mais adequada para implementar a experiência.
+
+Priorizar:
+- Componentização.
+- Código organizado.
+- Carregamento otimizado.
+- Imagens responsivas.
+- Transições suaves.
+- Acessibilidade.
+- Compatibilidade com navegadores modernos.
+
+A estrutura deverá permitir a substituição de textos, imagens, tratamentos e informações sem reconstruir toda a página.
+
+Não implementar funcionalidades falsas nem simular integrações como se já estivessem operacionais.
+
+## 7. DIRETRIZ PRINCIPAL
+
+A página deve ser construída para trabalhar em conjunto com a Clara.
+
+O visitante não deve sentir que está navegando em um site tradicional com um chatbot anexado.
+
+Deve sentir que está entrando em um ambiente digital onde pode explorar visualmente a clínica e conversar com uma assistente que conhece a estrutura e os serviços apresentados.
+
+O corpo visual precisa estar preparado para receber a camada de inteligência artificial posteriormente.
